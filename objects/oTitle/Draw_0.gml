@@ -1,0 +1,1 @@
+draw_text_transformed(x,y,"Rolle's Adventure",2,2,0)
